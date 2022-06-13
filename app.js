@@ -1,7 +1,7 @@
 ;(function(){
 "use strict"
 
-var palabras = ["ALURA", "ESFUERZO", "VERDAD", "PROGRAMAR", "ORACLE", "REALIDAD"]
+var palabras = ["TUETANOS", "LADY", "BARCOS", "LIBRAMORTE", "CARAPUTREA", "PANZACHACRO", "PUTRICIDIO", "PRINCIPES", "REINA", "VALI", "SINDRA", "LICH", "ARTHAS"]
 localStorage.setItem('palabras', JSON.stringify(palabras))
 
 var juego = null
