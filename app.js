@@ -133,7 +133,6 @@ window.nuevoJuego = function nuevoJuego() {
     juego.letras = letras
     juego.restante = letras.size
     dibujar(juego)
-    console.log(juego)
 
 }
 
